@@ -1,0 +1,13 @@
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\bin\Release\netcoreapp3.1\encrypt-decript.exe
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\bin\Release\netcoreapp3.1\encrypt-decript.deps.json
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\bin\Release\netcoreapp3.1\encrypt-decript.runtimeconfig.json
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\bin\Release\netcoreapp3.1\encrypt-decript.runtimeconfig.dev.json
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\bin\Release\netcoreapp3.1\encrypt-decript.dll
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\bin\Release\netcoreapp3.1\encrypt-decript.pdb
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.csprojAssemblyReference.cache
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.AssemblyInfoInputs.cache
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.AssemblyInfo.cs
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.csproj.CoreCompileInputs.cache
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.dll
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.pdb
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Release\netcoreapp3.1\encrypt-decript.genruntimeconfig.cache
