@@ -98,7 +98,7 @@ namespace encrypt_decript
             else
             {
                 label4.Visible = true;
-                label4.Text = "Lenght key invalid!!";
+                label4.Text = "Length key invalid!!";
                 label4.BackColor = Color.Red;
             }
         }
