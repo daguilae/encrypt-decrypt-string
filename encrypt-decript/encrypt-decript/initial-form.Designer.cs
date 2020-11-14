@@ -37,6 +37,7 @@
             this.outputEncrypt = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -67,6 +68,7 @@
             this.txtKey.Name = "txtKey";
             this.txtKey.Size = new System.Drawing.Size(380, 23);
             this.txtKey.TabIndex = 2;
+            this.txtKey.TextChanged += new System.EventHandler(this.txtKey_TextChanged);
             // 
             // Key
             // 
@@ -123,12 +125,21 @@
             this.label3.TabIndex = 6;
             this.label3.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(505, 42);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(0, 15);
+            this.label4.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Menu;
             this.ClientSize = new System.Drawing.Size(629, 323);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.outputEncrypt);
@@ -159,6 +170,7 @@
         private System.Windows.Forms.TextBox outputEncrypt;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
