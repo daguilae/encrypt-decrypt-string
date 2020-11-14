@@ -11,3 +11,5 @@ C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt
 C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Debug\netcoreapp3.1\encrypt-decript.dll
 C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Debug\netcoreapp3.1\encrypt-decript.pdb
 C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Debug\netcoreapp3.1\encrypt-decript.genruntimeconfig.cache
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Debug\netcoreapp3.1\encrypt_decript.Form1.resources
+C:\Users\rgarcia\Documents\GitHub\encrypt-decrypt-string\encrypt-decript\encrypt-decript\obj\Debug\netcoreapp3.1\encrypt-decript.csproj.GenerateResource.cache
