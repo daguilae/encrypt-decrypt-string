@@ -14,7 +14,7 @@ namespace encrypt_decript
         Params param = new Params();
         Decrypt decrypt = new Decrypt();
         Encrypt encrypt = new Encrypt();
-        String result = "";
+      
 
         
         public Form1()
@@ -55,8 +55,8 @@ namespace encrypt_decript
             else {
                 param.Key = txtKey.Text;
                 param.InputString = inputTextPlain.Text;
-                result = functions.Encrypt.EncryptString(param.Key, param.InputString);
-                outputEncrypt.Text = result;
+                param.OutputString = functions.Encrypt.EncryptString(param.Key, param.InputString);
+                outputEncrypt.Text = param.OutputString;
                 label3.Visible = false;
                 button2.Visible = false;
             }
@@ -77,8 +77,8 @@ namespace encrypt_decript
             else {
                 param.Key = txtKey.Text;
                 param.InputString = inputTextPlain.Text;
-                result = functions.Decrypt.DecryptString(param.Key, param.InputString);
-                outputEncrypt.Text = result;
+                param.OutputString = functions.Decrypt.DecryptString(param.Key, param.InputString);
+                outputEncrypt.Text = param.OutputString;
                 button1.Visible = false;
             }
          
