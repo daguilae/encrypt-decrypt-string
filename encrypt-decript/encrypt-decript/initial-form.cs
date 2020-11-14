@@ -59,6 +59,7 @@ namespace encrypt_decript
                 outputEncrypt.Text = param.OutputString;
                 label3.Visible = false;
                 button2.Visible = false;
+                label4.Visible = false;
             }
 
      
@@ -80,9 +81,26 @@ namespace encrypt_decript
                 param.OutputString = functions.Decrypt.DecryptString(param.Key, param.InputString);
                 outputEncrypt.Text = param.OutputString;
                 button1.Visible = false;
+                label4.Visible = false;
             }
          
 
+        }
+
+        private void txtKey_TextChanged(object sender, EventArgs e)
+        {
+            if (txtKey.Text.Length == 32)
+            {
+                label4.Visible = true;
+                label4.Text = "Ok!";
+                label4.BackColor = Color.Azure;
+            }
+            else
+            {
+                label4.Visible = true;
+                label4.Text = "Lenght key invalid!!";
+                label4.BackColor = Color.Red;
+            }
         }
     }
 }
